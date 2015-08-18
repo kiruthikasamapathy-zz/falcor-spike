@@ -6,4 +6,4 @@
 # Run Application
   `node index.js`
 
-   Open (app)[http://localhost:4000/index.html]
+   Open [app](http://localhost:4000/index.html)
