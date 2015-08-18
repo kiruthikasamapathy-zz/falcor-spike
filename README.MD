@@ -5,4 +5,5 @@
 
 # Run Application
   `node index.js`
-   Open your web browser to localhost:4000/index.html
+
+   Open (app)[http://localhost:4000/index.html]
